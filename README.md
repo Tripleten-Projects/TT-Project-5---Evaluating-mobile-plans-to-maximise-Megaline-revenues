@@ -1,4 +1,4 @@
-# Evaluating mobile plans to maximise Megaline' revenues
+# Evaluating mobile plans to maximise Megaline's revenues
 
 ## PROJECT OVERVIEW
 
@@ -16,7 +16,7 @@ You are going to perform a preliminary analysis of the tariffs based on a relati
 
 ### STEP 4: TEST STATISTICAL HYPOTHESES
 
-## STEP 5: CONCLUSION
+## CONCLUSION
 
 The Surf plan provides better benefits to the company. SURF plan users pay more than double their monthly fixed cost of their plan only for excess GB consumption. ULTIMATE plan users do not exceed their call or text message consumption limits, having the same average GB consumption as SURF plan users but do not pay excess because their plan includes a greater amount of GB. We can maximize the benefit of the company doing a bigger campaign for SURF plan
 
