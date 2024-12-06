@@ -1,0 +1,29 @@
+# CREATE ENVIRONMENT
+python -m venv TT5_env 
+
+# ACTIVATE ENVIRONMENT
+.\TT5_env\Scripts\activate
+
+# DEACTIVATE ENVIRONMENT
+deactivate
+
+# KNOW WHICH LIBRARIES YOU HAVE INSTALLED
+pip list
+
+# INSTALL LIBRARIES INSIDE THE VIRTUAL ENVIRONMENT ONE BY ONE 
+pip install xxxxx
+
+## INSTALL LIBRARIES INSIDE THE VIRTUAL ENVIRONMENT FROM REQUIREMENTS FILE
+pip install -r ".\requirements.txt"
+
+## CREATE PROJECT REQUIREMENTS FILE
+python.exe -m pip install --upgrade pip
+
+# UNINSTALLING LIBRARIES INSIDE THE VIRTUAL ENVIRONMENT
+With the virtual environment activated we use the command 
+    ‘pip uninstall -r requirements.txt -y‘’ command.
+
+************************************************************************************************
+
+# PUBLISH PROJECT TO GITHUB
+Shift + Ctrl + P -----> Publish to GitHub
